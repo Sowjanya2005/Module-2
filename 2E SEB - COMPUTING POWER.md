@@ -16,8 +16,8 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```
-#Reg.No: 212222060250
-#Name: Sowjanya A
+Reg.No: 212222060250
+Name: Sowjanya A
 
 a=int(input())
 b=int(input())
